@@ -1,0 +1,22 @@
+{
+  "name": "Create Your Own Voice Assistant with Node.js, Langchain & Eleven Labs in 9 Minutes",
+  "module": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.3.41",
+    "@langchain/core": "^0.3.45",
+    "@langchain/openai": "^0.5.6",
+    "dotenv": "^16.5.0",
+    "elevenlabs-node": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "hnswlib-node": "^3.0.0",
+    "langchain": "^0.3.23",
+    "mic": "^2.1.2",
+    "openai": "^4.95.1",
+    "pdf-parse": "^1.1.1",
+    "punycode": "^2.3.1",
+    "sound-play": "^1.1.0",
+    "stream": "^0.0.2",
+    "wav": "^1.0.2"
+  }
+}
