@@ -57,7 +57,7 @@ _Added functionality (RAG + Voice Cloning)_
 1. Clone this repository  
    ```bash
    git clone https://github.com/RatulPradhan/RAG_Speech_to_Speech_Agent_Chaining.git
-   cd MailMaven
+   cd RAG_Speech_to_Speech_Agent_Chaining
    ```
 2. Install dependencies  
    ```bash
