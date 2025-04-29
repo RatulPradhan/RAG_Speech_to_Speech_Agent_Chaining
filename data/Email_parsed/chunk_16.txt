@@ -1,0 +1,10 @@
+Filename: Weekly_Reminder.pdf
+Date: May 10, 2025
+Subject: Weekly Status Reminder
+
+Team,
+
+Please submit your weekly status updates by end of day today. Include any blockers and accomplishments from the past week.
+
+Thanks,
+Ratul

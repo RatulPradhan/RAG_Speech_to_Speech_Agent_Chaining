@@ -1,0 +1,14 @@
+Filename: Team_Project_Update.pdf
+Date: May 2, 2025
+Subject: Team Project Update
+
+Hi Team,
+
+Quick status update: We’ve completed the data ingestion pipeline and are now validating against edge cases. 
+Next steps:
+1. Merge your feature branches into dev by EOD Friday.
+2. Write unit tests for the new endpoint.
+3. Schedule a demo for Monday’s sprint review.
+
+Thanks,
+Alex

@@ -1,0 +1,15 @@
+Filename: Security_Alert.pdf
+Date: April 30, 2025
+Subject: Urgent: Password Expiry Notice
+
+Hello Ratul,
+
+Our records show your account password will expire in 3 days.
+To avoid service interruption:
+1. Visit https://portal.company.com/reset-password  
+2. Follow the on-screen instructions  
+3. Confirm via the emailed verification link  
+
+If you need assistance, contact IT Support.
+
+– IT Security Team
