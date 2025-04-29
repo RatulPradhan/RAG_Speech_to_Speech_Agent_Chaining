@@ -52,3 +52,30 @@ _Added functionality (RAG + Voice Cloning)_
    - After playback (or skipping it), the system goes back to step 1.
 
 ---
+## Installation
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/<your‑username>/MailMaven.git
+   cd MailMaven
+   ```
+2. Install dependencies  
+   ```bash
+   npm install
+   ```
+3. Create a `.env` file in the project root with your API keys and settings:  
+   ```env
+   OPENAI_API_KEY=your_openai_api_key
+   ELEVEN_LABS_API_KEY=your_eleven_labs_api_key
+   PLAY_AUDIO=true
+   ```
+4. Prepare your email data (PDFs)  
+   - Drop your `.pdf` email files into `./data/Email_pdfs/`  
+   - Run the loader to parse and chunk them:  
+     ```bash
+     node run_email_loader.js
+     ```
+5. Start the voice assistant  
+   ```bash
+   node index.js
+   ```
